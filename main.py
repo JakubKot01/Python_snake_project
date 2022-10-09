@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+
 import random
 
 import pygame
@@ -223,14 +225,14 @@ info_position_2 = Vector2(40 * 20 / 2, 40 * 20 / 2 + 60)
 screen = pygame.display.set_mode((cell_size * cell_number, cell_size * cell_number))
 clock = pygame.time.Clock()
 
-apple_image = pygame.image.load('C:/Users/j1311/OneDrive/Pulpit/Projekt/apple.png')
+apple_image = pygame.image.load('apple.png')
 
 event_update = pygame.USEREVENT
 pygame.time.set_timer(event_update, 90)
 pygame.time.delay(120)
 
 # a lot of font schemas
-game_font = "C:/Users/j1311/OneDrive/Pulpit/Projekt/ka1.ttf"
+game_font = "ka1.ttf"
 scoreboard_title_font = pygame.font.Font(game_font, 80)
 scoreboard_font = pygame.font.Font(None, 40)
 info_font_1 = pygame.font.Font(game_font, 30)
