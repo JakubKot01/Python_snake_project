@@ -5,6 +5,7 @@
   * [Description](#Description)
   * [Goals](#Goals)</br>
 * [Technologies](#Technologies)</br>
+* [How to play>](#How-to-play?)</br>
 
 ## Project outline
 ### Description
@@ -28,4 +29,8 @@ University of Wroclaw.
 ## How to play?
 * Use Linux CLI
 * run ./main.py
+ * propably need to use 
+ ```
+ chmod +x main.py
+ ```
 * Write your name and enjoy!!!
