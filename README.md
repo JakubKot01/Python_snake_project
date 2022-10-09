@@ -5,7 +5,8 @@
   * [Description](#Description)
   * [Goals](#Goals)</br>
 * [Technologies](#Technologies)</br>
-* [How to play>](#How-to-play?)</br>
+* [How to play?](#How-to-play?)</br>
+* [How to install libraries?](#How-to-install-libraries?)</br>
 
 ## Project outline
 ### Description
@@ -34,3 +35,9 @@ University of Wroclaw.
  chmod +x main.py
  ```
 * Write your name and enjoy!!!
+
+## How to install libraries?
+```
+apt-get install pip
+pip install pygame
+pip install sqlalchemy
