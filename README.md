@@ -24,3 +24,8 @@ University of Wroclaw.
   * sys
   * pygame
   * sqlalchemy
+
+## How to play?
+* Use Linux CLI
+* run ./main.py
+* Write your name and enjoy!!!
