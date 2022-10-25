@@ -28,16 +28,6 @@ University of Wroclaw.
   * sqlalchemy
 
 ## How to play?
-* Use Linux CLI
-* run ./main.py
- * propably need to use 
- ```
- chmod +x main.py
- ```
-* Write your name and enjoy!!!
-
-## How to install libraries?
-```
-apt-get install pip
-pip install pygame
-pip install sqlalchemy
+* Clone or download repo
+* Click on "Snake" file or run ```./Snake``` command
+* Enjoy the game!
