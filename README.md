@@ -6,7 +6,6 @@
   * [Goals](#Goals)</br>
 * [Technologies](#Technologies)</br>
 * [How to play?](#How-to-play?)</br>
-* [How to install libraries?](#How-to-install-libraries?)</br>
 
 ## Project outline
 ### Description
