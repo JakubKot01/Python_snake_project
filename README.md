@@ -25,6 +25,8 @@ University of Wroclaw.
   * sys
   * pygame
   * sqlalchemy
+  * pyinstaller
+ * Project is compiled by pyinstaller tools
 
 ## How to play?
 * Clone or download repo
